@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/detailnutritionFragment"
+    android:id="@+id/nav_details">
+
+    <fragment
+        android:id="@+id/detailnutritionFragment"
+        android:name="com.example.cc1_android.fragment.ProductDetailsSummaryFragment"
+        android:label="fragment_my_home"
+        tools:layout="@layout/product_details_summary_fragment">
+
+        <action
+            android:id="@+id/action_detailnutritionFragment_to_listnutritionvaluesFragment"
+            app:destination="@id/listnutritionvaluesFragment" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/listnutritionFragment"
+        android:name="com.example.cc1_android.fragment.ProductDetailsNutritionFragment"
+        android:label="fragment_my_home"
+        tools:layout="@layout/product_details_nutrition_fragment">
+
+        <action
+            android:id="@+id/action_listnutritionFragment_to_detailnutritionFragment"
+            app:destination="@id/detailnutritionFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/listnutritionvaluesFragment"
+        android:name="com.example.cc1_android.fragment.ProductDetailsNutritionalValuesFragment"
+        android:label="fragment_my_home"
+        tools:layout="@layout/product_details_nutritional_value_fragment">
+        <action
+            android:id="@+id/action_listnutritionvaluesFragment_to_listnutritionFragment"
+            app:destination="@id/listnutritionFragment" />
+    </fragment>
+
+
+</navigation>

@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">Comparateur</string>
+
+    <string name="product1_name">Petits Pois et Carottes</string>
+    <string name="product2_name">Champignon de paris</string>
+    <string name="product3_name">Maïs et Thon</string>
+    <string name="product4_name">Haricots Verts</string>
+
+
+    <string name="marque1"> Casegrain </string>
+    <string name="marque2">Casegrain</string>
+    <string name="marque3">Casegrain</string>
+    <string name="marque4">Casegrain</string>
+
+    <string name="quantite1">4400 g (280 g net égoutté)</string>
+    <string name="quantite2">400 g (280 g net égoutté)</string>
+    <string name="quantite3">400 g (280 g net égoutté)</string>
+    <string name="quantite4">400 g (280 g net égoutté)</string>
+
+    <string-array name="liste_pays1">
+        <item>France</item>
+        <item>Italie</item>
+        <item>Belgique</item>
+        <item>Espagne</item>
+        <item>Suisse</item>
+    </string-array>
+
+    <string-array name="liste_pays2">
+        <item>France</item>
+        <item>Italie</item>
+        <item>Belgique</item>
+        <item>Espagne</item>
+        <item>Suisse</item>
+    </string-array>
+
+    <string-array name="liste_pays3">
+        <item>France</item>
+        <item>Italie</item>
+        <item>Belgique</item>
+        <item>Espagne</item>
+        <item>Suisse</item>
+    </string-array>
+
+    <string-array name="liste_pays4">
+        <item>France</item>
+        <item>Italie</item>
+        <item>Belgique</item>
+        <item>Espagne</item>
+        <item>Suisse</item>
+    </string-array>
+
+
+    <string-array name="liste_aditifs1">
+        <item>E330 - Acide citrique</item>
+        <item>E322 - Lécithines</item>
+        <item>E14XX - Amidons modifiés</item>
+        <item>E300 - Acide ascorbique</item>
+    </string-array>
+
+
+    <string-array name="liste_aditifs2">
+        <item>E330 - Acide citrique</item>
+        <item>E322 - Lécithines</item>
+        <item>E14XX - Amidons modifiés</item>
+        <item>E300 - Acide ascorbique</item>
+    </string-array>
+
+
+    <string-array name="liste_aditifs3">
+        <item>E330 - Acide citrique</item>
+        <item>E322 - Lécithines</item>
+        <item>E14XX - Amidons modifiés</item>
+        <item>E300 - Acide ascorbique</item>
+    </string-array>
+
+
+    <string-array name="liste_aditifs4">
+        <item>E330 - Acide citrique</item>
+        <item>E322 - Lécithines</item>
+        <item>E14XX - Amidons modifiés</item>
+        <item>E300 - Acide ascorbique</item>
+    </string-array>
+
+
+    <string-array name="liste_alergenes1">
+        <item>Allergenes : </item>
+        <item>gluten,</item>
+        <item>les crustacés,</item>
+        <item>les œufs,</item>
+        <item>les arachides,</item>
+        <item>le lait,</item>
+    </string-array>
+
+    <string-array name="liste_alergenes2">
+        <item>Allergenes : </item>
+        <item>gluten,</item>
+        <item>les crustacés,</item>
+        <item>les œufs,</item>
+        <item>les arachides,</item>
+        <item>le lait,</item>
+    </string-array>
+
+    <string-array name="liste_alergenes3">
+        <item>Allergenes : </item>
+        <item>gluten,</item>
+        <item>les crustacés,</item>
+        <item>les œufs,</item>
+        <item>les arachides,</item>
+        <item>le lait,</item>
+    </string-array>
+
+    <string-array name="liste_alergenes4">
+        <item>Allergenes : </item>
+        <item>gluten,</item>
+        <item>les crustacés,</item>
+        <item>les œufs,</item>
+        <item>les arachides,</item>
+        <item>le lait,</item>
+    </string-array>
+
+    <string-array name="liste_ingredients1">
+        <item>Ingredients : </item>
+        <item>Petits pois 66%,</item>
+        <item>eau,</item>
+        <item>garniture 2,8% (salade, oignon grelot),</item>
+        <item>sel, </item>
+        <item>arôme naturel</item>
+        <item>,sucre</item>
+
+    </string-array>
+
+    <string-array name="liste_ingredients2">
+        <item>Petits pois 66%,</item>
+        <item>eau,</item>
+        <item>garniture 2,8% (salade, oignon grelot),</item>
+        <item>sel, </item>
+        <item>arôme naturel</item>
+        <item>,sucre</item>
+
+    </string-array>
+
+    <string-array name="liste_ingredients3">
+        <item>Petits pois 66%,</item>
+        <item>eau,</item>
+        <item>garniture 2,8% (salade, oignon grelot),</item>
+        <item>sel, </item>
+        <item>arôme naturel</item>
+        <item>,sucre</item>
+    </string-array>
+
+    <string-array name="liste_ingredients4">
+        <item>Ingredients : </item>
+        <item>Petits pois 66%,</item>
+        <item>eau,</item>
+        <item>garniture 2,8% (salade, oignon grelot),</item>
+        <item>sel, </item>
+        <item>arôme naturel</item>
+        <item>,sucre</item>
+
+    </string-array>
+
+    <string name="unit">KJ</string>
+    <string name="quantiteProductPer100">500</string>
+    <string name="quantiteProductPerPortion">300</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="codebarre1">3435656654656</string>
+    <string name="codebarre2">3454645645455</string>
+    <string name="codebarre3">5464564564565</string>
+    <string name="codebarre4">5645645645666</string>
+
+
+
+</resources>

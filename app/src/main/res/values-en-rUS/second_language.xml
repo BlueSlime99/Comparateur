@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenFoodFacts</string>
+    <string name="product1_name">Petit Pois</string>
+    <string name="product2_name">Champignon de paris</string>
+    <string name="product3_name">Maïs</string>
+    <string name="product4_name">Haricots Vert</string>
+
+
+    <string name="marque1"> Casegrain </string>
+    <string name="marque2">Casegrain</string>
+    <string name="marque3">Casegrain</string>
+    <string name="marque4">Casegrain</string>
+
+    <string name="quantite1">400</string>
+    <string name="quantite2">300</string>
+    <string name="quantite3">450</string>
+    <string name="quantite4">500</string>
+
+    <string name="unit">KJ</string>
+    <string name="quantiteProductPer100">500</string>
+    <string name="quantiteProductPerPortion">300</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="codebarre1">3435656654656</string>
+    <string name="codebarre2">3454645645455</string>
+    <string name="codebarre3">5464564564565</string>
+    <string name="codebarre4">5645645645666</string>
+
+</resources>

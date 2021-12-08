@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_rond.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/rond.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/color_bottom_navigation_view.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/color/bottom_navigation_view.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_ic_tab_tableau.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/ic_tab_tableau.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_haricot_verts.jpg.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/haricot_verts.jpg"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_nutri_score_d.png.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/nutri_score_d.png"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/layout_product_item.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/layout/product_item.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/menu_product_details_tabs.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/menu/product_details_tabs.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_nutri_score_b.png.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/nutri_score_b.png"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/layout_product_details_nutrition_fragment.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/layout/product_details_nutrition_fragment.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_ic_tab_nutrition.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/ic_tab_nutrition.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_nutriscore.jpg.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/nutriscore.jpg"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_nutri_score_e.png.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/nutri_score_e.png"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/layout_product_detail_activity.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/layout/product_detail_activity.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/anim_anim_frag.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/anim/anim_frag.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/layout_fragment_product_details.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/layout/fragment_product_details.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/layout_nutrition_table.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/layout/nutrition_table.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_toolbar_design.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/toolbar_design.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_champignon.jpg.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/champignon.jpg"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_petit_pois.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/petit_pois.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/layout_product_details_nutritional_value_fragment.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/layout/product_details_nutritional_value_fragment.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/layout_product_details_summary_fragment.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/layout/product_details_summary_fragment.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/layout_nutrition_list_details.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/layout/nutrition_list_details.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_nutri_score_c.png.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/nutri_score_c.png"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_ic_tab_fiche.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/ic_tab_fiche.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_placeholder.jpg.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/placeholder.jpg"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_nutri_score_a.png.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/nutri_score_a.png"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/layout_product_list_fragment.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/layout/product_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/navigation_nav_details.xml.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/navigation/nav_details.xml"
+    },
+    {
+        "merged": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/build/intermediates/merged_res/debug/drawable_mais.jpg.flat",
+        "source": "/Users/boussayedwarda/AndroidStudioProjects/Yuka_app_rendu/app/src/main/res/drawable/mais.jpg"
+    }
+]
